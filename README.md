@@ -130,6 +130,4 @@ Aarushi Mahajan, Rahul Hemal Shah, Namratha Mysore Jayaprakash.
 "Neural Evolution of Deep Neural Network Architectures", Final Project – COMPSCI 682, UMass Amherst, Fall 2024.
 ```
 
----
-
-Let me know if you'd like me to generate a matching `main.py` script or visuals for GitHub!
+--- 
