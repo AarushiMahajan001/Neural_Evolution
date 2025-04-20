@@ -103,7 +103,7 @@ This project explores **gradient-free optimization** of Convolutional Neural Net
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/neural-evolution-cnn.git
+git clone https://github.com/AarushiMahajan001/neural-evolution-cnn.git
 cd neural-evolution-cnn
 
 # Install dependencies
